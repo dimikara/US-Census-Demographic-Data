@@ -15,14 +15,28 @@ For the full data sets and more information, please refer to the [United States 
 
 ___________________
 
-# [Visualization #1]()
+# [Visualization #1](https://public.tableau.com/app/profile/dimitra.karamperi/viz/DistributionofEthinicitiesinAllUSStates/Sheet1): Distribution of Ethinicities in All US States
 
 ## Link
 
+https://public.tableau.com/app/profile/dimitra.karamperi/viz/DistributionofEthinicitiesinAllUSStates/Sheet1
+
+![Distribution of Ethinicities in All US States](https://user-images.githubusercontent.com/8607482/192156346-4be8cff7-4d1a-455b-ad6e-db1d0fbab4d7.png)
+
+
 ## Summary
+
+In this visualization, we can see all the ethnicities for which there is data for in the provided data set, i.e. **Asian**, **Black**, **Hispanic**, **Native**, and **White**, in alphabetical order.
+
+We can see is that the more evenly distributed ethnicities are the White & Asian populations. To further explain, by even distribution, I mean that these two ethinicities appear in many states 
 
 
 ## Design
+
+I chose this bar chart as the most appropriate, in my opinion, for illustrating the above finding. It is a simple but effective choice that reveals something that may not be so intuitive to understand otherwise.
+
+I added two filters, to facilitate the filtering based on state & county, if the reader wants to get the appropriate info in a more in depth level. I have also added data labels following the Min/Max option, so that it is easy to see the highest and lowest value for each ethinicity.
+
 
 
 ## Resources
