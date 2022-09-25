@@ -3,7 +3,7 @@
 
 ## <b>Introduction</b><br>
 
-In this project I am exploring a US Census Demographic data set, and visualizeing some findings using Tableau.
+In this project I am exploring a US Census Demographic data set, and visualizing some findings using Tableau.
 
 
 ## <b>About the Data Set</b>
