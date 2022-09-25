@@ -19,46 +19,50 @@ ___________________
 
 ## Link
 
-## Summary 
+## Summary
 
-A brief description of the visualization and the main story or findings conveyed
 
 ## Design
 
-Explain any design choices you made including changes to the visualization after collecting feedback
 
 ## Resources
 
 * [How to Visualize Likert Scale Data in Tableau](https://www.rigordatasolutions.com/post/how-to-visualize-likert-scale-data-in-tableau)
 
-List of Web sites, books, forums, blog posts, GitHub repositories, etc that you referred to or used in this submission (Add N/A if you did not use such resources).
 
 
 # [Visualization #2]()
 
 ## Link
 
-## Summary 
+## Summary
 
-
+In this visualization, I am exploring the
+Ethinisity distribution / men-wome / Top 3 states with highest unemployment rates
 
 ## Design
 
 
 
 ## Resources
+
+* [How to Create a Population Pyramid Chart in Tableau](https://www.doingdata.org/blog/how-to-create-a-population-pyramid-chart-in-tableau)
 
 
 # [Visualization #3]()
 
 ## Link
 
-## Summary 
+## Summary
+
+A brief description of the visualization and the main story or findings conveyed
 
 
 ## Design
 
+Explain any design choices you made including changes to the visualization after collecting feedback
 
 
 ## Resources
 
+List of Web sites, books, forums, blog posts, GitHub repositories, etc that you referred to or used in this submission (Add N/A if you did not use such resources).
