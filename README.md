@@ -45,7 +45,7 @@ In this visualization, we can see all the ethnicities for which there is data fo
 
 appearing in alphabetical order.
 
-We can see is that the more evenly distributed ethnicities are the White & Asian populations. To further explain, by even distribution, I mean that these two ethinicities seem to appear more evenly in most states. In contrast, the black community for example seems to exist mostly in 9 states (9 peaks), while the Latino community seems to be living in mostly 2 states, Puerto Rico & Texas, which correspond to the two prominent peaks. Lastly, the Native community is somewhere in the middle, showing 6-7 peaks, but with the lowest population numbers.
+We can see is that the more evenly distributed ethnicities are the White & Asian populations. To further explain, by even distribution, I mean that these two ethinicities seem to have less peaks and appear more evenly in most states. In contrast, the black community for example seems to exist mostly in 9 states (9 peaks), while the Latino community seems to be living in mostly 2 states, Puerto Rico & Texas, which correspond to the two prominent peaks. Lastly, the Native community is somewhere in the middle, showing 6-7 peaks, but with the lowest population numbers.
 
 
 ### Design
