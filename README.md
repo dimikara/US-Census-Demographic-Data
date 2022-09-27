@@ -28,7 +28,7 @@ ___________________
 
 https://public.tableau.com/app/profile/dimitra.karamperi/viz/DistributionofEthinicitiesinAllUSStates/Sheet1
 
-![Distribution of Ethinicities in All US States](https://user-images.githubusercontent.com/8607482/192156346-4be8cff7-4d1a-455b-ad6e-db1d0fbab4d7.png)
+![Distribution of Ethinicities in All US States](https://github.com/dimikara/US-Census-Demographic-Data/blob/main/img/Distribution%20of%20Ethinicities%20in%20the%20US.png)
 
 
 ### Summary
@@ -53,7 +53,7 @@ I added two filters, to facilitate the filtering based on state & county, if the
 ___________________
 
 ## [Unemployment Insights for the US](https://public.tableau.com/app/profile/dimitra.karamperi/viz/UnemploymentInsightsfortheUS/UnemploymentInsights)
-![Unemployment Insights for the US](https://github.com/dimikara/US-Census-Demographic-Data/blob/main/img/Dashboard%202.png)
+![Unemployment Insights for the US](https://github.com/dimikara/US-Census-Demographic-Data/blob/main/img/Unemployment%20Insights%20for%20the%20US.png)
 
 ### Link
 
