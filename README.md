@@ -46,7 +46,7 @@ I added two filters, to facilitate the filtering based on state & county, if the
 ___________________
 
 # [Unemployment Insights for the US](https://public.tableau.com/app/profile/dimitra.karamperi/viz/UnemploymentInsightsfortheUS/UnemploymentInsights)
-![Unemployment Insights for the US](https://user-images.githubusercontent.com/8607482/192156346-4be8cff7-4d1a-455b-ad6e-db1d0fbab4d7.png)
+![Unemployment Insights for the US](https://github.com/dimikara/US-Census-Demographic-Data/blob/main/img/Dashboard%202.png)
 
 ## Link
 
@@ -66,22 +66,24 @@ In this visualization, we can see some insights about the unemployment in the US
 - Missouri
 - Michigan
 
-The first obvious finding is that all these 10 states are in the eastern part of the US, with most of them being in the south.
+The first obvious finding is that all these 10 states are in the eastern part of the US, with most of them being in the south as only Michigan lies on the north.
 
-Not so surprisingly, we can also see that Poverty and Unemployment go usually hand by hand. In the tooltip, I chose to also include the data for Child poverty as an extra interesting piece of information that can be combined
+In the map, the Highlight State bar is used for an easy navigation: upon choosing a state out of the 10 that are available, the data is automatically highlighted in the visualization parts on the right.
 
-In the last part of the Dashboard, 
+Not so surprisingly, we can also see that Unemployment and Poverty usually go hand by hand. This is represented by the visualization on the top right. In the tooltip, I chose to also include the data for Child Poverty as an extra interesting piece of information. As we can see by the blue color differences, Child Poverty follows more or less the same pattern with Poverty, with the exception of Missouri that has higher than expected values for both Poverty and Child Poverty.
+
+The last part of the Dashboard, on the bottom right, has a two-fold role: the first one is to give us some more extra arithmetic data about the 10 countries that we examine, as an attempt to expand our understanding of the relationship between Unemployment, Income per Capita, and Population. At the same time, the visualization gives a quick sense of the size of Poverty as the bar appears as thick or thin.
 
 
 ## Design
 
 I made use of the map that can be embedded in a Tableau worksheet in order to see how the top 10 states with the highest unemployment are spread geographically. 
 
-For comparing Unemployment and Poverty, I actually took my inspiration from the popular population pyramid charts. I have also added the data for Child Poverty, using hues of blue as a differentiator in order to give a sense of the metric: the darkest the blue color is, the highest the Child Poverty is.
+For comparing Unemployment and Poverty, I actually took my inspiration from the popular population pyramid charts. I have also added the data for Child Poverty, using hues of blue as a differentiator in order to give a prompt sense of the metric: the darkest the blue color is, the highest the Child Poverty is.
 
 In the last part of the Dashboard, I am giving mainly some arithmetic data along with the dimension of Poverty represented by the thickness of the bars: the more thick the line is the higest the poverty is, and the opposite.
 
-Finally, I chose the combination of blue & orange for the visualizations as it is the suggested one for people with color blindness issues.
+Finally, I chose the combination of blue & orange for the visualizations as it is the suggested combination for people with color blindness issues.
 
 
 ## Resources
