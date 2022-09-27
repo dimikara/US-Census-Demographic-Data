@@ -50,7 +50,7 @@ We can see is that the more evenly distributed ethnicities are the White & Asian
 
 ### Design
 
-I chose the area chart as it is visually the most appropriate to illustrate the above finding. It is a simple but effective choice that reveals something that might not be so intuitive to understand otherwise.
+I chose the bar chart as the data is categorical and this is the most appropriate chart type to use in this case. It is a simple but effective choice that reveals something that might not be so intuitive to understand otherwise.
 
 I added two filters, to facilitate the filtering based on state & county, in case the reader wants to get the appropriate info in a more in depth level. Upon selecting a state, we can also see the actual data for all ethinicities for the given state.
 
@@ -129,6 +129,10 @@ I created this visualization because I wanted to see how evenly (or not) the une
 - **Puerto Rico**
 
 The charts revealed that unemployment is spread in the counties of Texas & Georgia following the same pattern, more or less: the highest unemployment rate is 1.2% for Texas & 1.3% for Georgia. At the same time, the highest value for Puerto Rico climbs is 2.4%, i.e. double than that of Texas. Furthermore, there many more large bubbles in Puerto Rico graph comparing to that of both Texas & Georgia. As I understand it, this means that unemployment is much more widespread in Puerto Rico than in Texas or Georgia.
+
+Please note that I chose on purpose to keep all the counties in the bubble charts as I want to illustrate that in Texas and Georgia there are many bubbles of a smaller size and only a few bigger ones, while in Puerto Rico there are many bubbles of larger size. If I was to limit the bubbles to 10 or 20, this finding would no longer be obvious.
+
+In order to facilitate the reader in further exploring the data on the bubble charts for the three states, I added a highlighter in all three of them. This way, it is possible to select a county and promptly get the data for it.
 
 
 ### Design
