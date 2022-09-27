@@ -4,11 +4,9 @@
 
 * [Introduction](#introduction)
 * [About the Data Set](#about-the-data-set)
-* [Distribution of Ethinicities in All US States](#)
-* [Unemployment Insights for the US](#)
-* [App Functionality](#app-functionality)
-* [Credits & Helpful Links](#credits-&-helpful-links)
-* [Screenshots](#screenshots)
+* [Distribution of Ethinicities in All US States](#distribution-of-ethinicities-in-all-us-states)
+* [Unemployment Insights for the US](#unemployment-insights-for-the-US)
+
 
 ## <b>Introduction</b><br>
 
