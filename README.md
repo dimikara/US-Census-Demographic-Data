@@ -111,7 +111,7 @@ Finally, I chose the combination of blue & orange for the visualizations as it i
 
 ___________________
 
-## [Visualization #3]()
+## [3. How is Unemployment Distributed across the counties of the Top 3 States with the Highest Unemployment Rates?](https://public.tableau.com/authoring/test_16642918749940/Sheet1/Unemployment%20Distribution#1)
 
 ### Link
 
