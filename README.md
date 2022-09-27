@@ -43,25 +43,53 @@ I added two filters, to facilitate the filtering based on state & county, if the
 
 * [How to Visualize Likert Scale Data in Tableau](https://www.rigordatasolutions.com/post/how-to-visualize-likert-scale-data-in-tableau)
 
+___________________
 
-
-# [Visualization #2]()
+# [Unemployment Insights for the US](https://public.tableau.com/app/profile/dimitra.karamperi/viz/UnemploymentInsightsfortheUS/UnemploymentInsights)
+![Unemployment Insights for the US](https://user-images.githubusercontent.com/8607482/192156346-4be8cff7-4d1a-455b-ad6e-db1d0fbab4d7.png)
 
 ## Link
 
+You may find the Dashboard [here](https://public.tableau.com/app/profile/dimitra.karamperi/viz/UnemploymentInsightsfortheUS/UnemploymentInsights)
+
 ## Summary
 
-In this visualization, I am exploring the
-Ethinisity distribution / men-wome / Top 3 states with highest unemployment rates
+In this visualization, we can see some insights about the unemployment in the US. I am focusing on the top 10 states with the highest unemployment values. In a descending order, these states are:
+- Texas
+- Georgia
+- Puerto Rico
+- Kentucky
+- North Carolina
+- Mississipi
+- Virginia
+- Tennessee
+- Missouri
+- Michigan
+
+The first obvious finding is that all these 10 states are in the eastern part of the US, with most of them being in the south.
+
+Not so surprisingly, we can also see that Poverty and Unemployment go usually hand by hand. In the tooltip, I chose to also include the data for Child poverty as an extra interesting piece of information that can be combined
+
+In the last part of the Dashboard, 
+
 
 ## Design
 
+I made use of the map that can be embedded in a Tableau worksheet in order to see how the top 10 states with the highest unemployment are spread geographically. 
+
+For comparing Unemployment and Poverty, I actually took my inspiration from the popular population pyramid charts. I have also added the data for Child Poverty, using hues of blue as a differentiator in order to give a sense of the metric: the darkest the blue color is, the highest the Child Poverty is.
+
+In the last part of the Dashboard, I am giving mainly some arithmetic data along with the dimension of Poverty represented by the thickness of the bars: the more thick the line is the higest the poverty is, and the opposite.
+
+Finally, I chose the combination of blue & orange for the visualizations as it is the suggested one for people with color blindness issues.
 
 
 ## Resources
 
 * [How to Create a Population Pyramid Chart in Tableau](https://www.doingdata.org/blog/how-to-create-a-population-pyramid-chart-in-tableau)
+* [5 tips on designing colorblind-friendly visualizations](https://www.tableau.com/about/blog/examining-data-viz-rules-dont-use-red-green-together)
 
+___________________
 
 # [Visualization #3]()
 
@@ -75,6 +103,8 @@ A brief description of the visualization and the main story or findings conveyed
 ## Design
 
 Explain any design choices you made including changes to the visualization after collecting feedback
+
+As bar charts are great to visually compare differences, I am using 
 
 
 ## Resources
