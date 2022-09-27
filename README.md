@@ -111,22 +111,36 @@ Finally, I chose the combination of blue & orange for the visualizations as it i
 
 ___________________
 
-## [3. How is Unemployment Distributed across the counties of the Top 3 States with the Highest Unemployment Rates?](https://public.tableau.com/authoring/test_16642918749940/Sheet1/Unemployment%20Distribution#1)
+## [3. How is Unemployment Distributed across the counties of the Top 3 States with the Highest Unemployment Rates?](https://public.tableau.com/app/profile/dimitra.karamperi/viz/UnemploymentDistribution_16643003770140/UnemploymentDistribution)
+
+![How is Unemployment Distributed across the counties of the Top 3 States with the Highest Unemployment Rates?](https://github.com/dimikara/US-Census-Demographic-Data/blob/main/img/Unemployment%20Distribution%20Across%20Counties.png)
 
 ### Link
 
+You may find the Story [here](https://public.tableau.com/app/profile/dimitra.karamperi/viz/UnemploymentDistribution_16643003770140/UnemploymentDistribution)
+
+
 ### Summary
 
-A brief description of the visualization and the main story or findings conveyed
+I created this visualization because I wanted to see how evenly (or not) the unemployment is spread along the counties. I chose to examine this only on the top 3 US states with the highest unemployment rates. These were:
+
+- **Texas**
+- **Georgia**
+- **Puerto Rico**
+
+The charts revealed that unemployment is spread in the counties of Texas & Georgia following the same pattern, more or less: the highest unemployment rate is 1.2% for Texas & 1.3% for Georgia. At the same time, the highest value for Puerto Rico climbs is 2.4%, i.e. double than that of Texas. Furthermore, there many more large bubbles in Puerto Rico graph comparing to that of both Texas & Georgia. As I understand it, this means that unemployment is much more widespread in Puerto Rico than in Texas or Georgia.
 
 
 ### Design
 
-Explain any design choices you made including changes to the visualization after collecting feedback
+All visualizations were created as bubble charts in order to facilitate the visual comparison.<br>
+The size of the bubble is directly related to the unemployment rate, where largest size represents higher unemployment.<br>
 
-As bar charts are great to visually compare differences, I am using 
+As in the previous visualizations, I chose the colorblind-friendly palette that is available in Tableau.
 
 
 ### Resources
 
-List of Web sites, books, forums, blog posts, GitHub repositories, etc that you referred to or used in this submission (Add N/A if you did not use such resources).
+* [5 tips on designing colorblind-friendly visualizations](https://www.tableau.com/about/blog/examining-data-viz-rules-dont-use-red-green-together)
+
+___________________
