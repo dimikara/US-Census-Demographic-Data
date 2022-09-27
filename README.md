@@ -1,5 +1,14 @@
 # Data Visualization in Tableau - US Census Demographic Data
 
+# Table of Contents
+
+* [Introduction](#introduction)
+* [About the Data Set](#about-the-data-set)
+* [Distribution of Ethinicities in All US States](#)
+* [Unemployment Insights for the US](#)
+* [App Functionality](#app-functionality)
+* [Credits & Helpful Links](#credits-&-helpful-links)
+* [Screenshots](#screenshots)
 
 ## <b>Introduction</b><br>
 
@@ -15,23 +24,23 @@ For the full data sets and more information, please refer to the [United States 
 
 ___________________
 
-# [Visualization #1](https://public.tableau.com/app/profile/dimitra.karamperi/viz/DistributionofEthinicitiesinAllUSStates/Sheet1): Distribution of Ethinicities in All US States
+## [Distribution of Ethinicities in All US States](https://public.tableau.com/app/profile/dimitra.karamperi/viz/DistributionofEthinicitiesinAllUSStates/Sheet1)
 
-## Link
+### Link
 
 https://public.tableau.com/app/profile/dimitra.karamperi/viz/DistributionofEthinicitiesinAllUSStates/Sheet1
 
 ![Distribution of Ethinicities in All US States](https://user-images.githubusercontent.com/8607482/192156346-4be8cff7-4d1a-455b-ad6e-db1d0fbab4d7.png)
 
 
-## Summary
+### Summary
 
 In this visualization, we can see all the ethnicities for which there is data for in the provided data set, i.e. **Asian**, **Black**, **Hispanic**, **Native**, and **White**, in alphabetical order.
 
 We can see is that the more evenly distributed ethnicities are the White & Asian populations. To further explain, by even distribution, I mean that these two ethinicities appear in many states 
 
 
-## Design
+### Design
 
 I chose this bar chart as the most appropriate, in my opinion, for illustrating the above finding. It is a simple but effective choice that reveals something that may not be so intuitive to understand otherwise.
 
@@ -39,20 +48,20 @@ I added two filters, to facilitate the filtering based on state & county, if the
 
 
 
-## Resources
+### Resources
 
 * [How to Visualize Likert Scale Data in Tableau](https://www.rigordatasolutions.com/post/how-to-visualize-likert-scale-data-in-tableau)
 
 ___________________
 
-# [Unemployment Insights for the US](https://public.tableau.com/app/profile/dimitra.karamperi/viz/UnemploymentInsightsfortheUS/UnemploymentInsights)
+## [Unemployment Insights for the US](https://public.tableau.com/app/profile/dimitra.karamperi/viz/UnemploymentInsightsfortheUS/UnemploymentInsights)
 ![Unemployment Insights for the US](https://github.com/dimikara/US-Census-Demographic-Data/blob/main/img/Dashboard%202.png)
 
-## Link
+### Link
 
 You may find the Dashboard [here](https://public.tableau.com/app/profile/dimitra.karamperi/viz/UnemploymentInsightsfortheUS/UnemploymentInsights)
 
-## Summary
+### Summary
 
 In this visualization, we can see some insights about the unemployment in the US. I am focusing on the top 10 states with the highest unemployment values. In a descending order, these states are:
 - Texas
@@ -75,7 +84,7 @@ Not so surprisingly, we can also see that Unemployment and Poverty usually go ha
 The last part of the Dashboard, on the bottom right, has a two-fold role: the first one is to give us some more extra arithmetic data about the 10 countries that we examine, as an attempt to expand our understanding of the relationship between Unemployment, Income per Capita, and Population. At the same time, the visualization gives a quick sense of the size of Poverty as the bar appears as thick or thin.
 
 
-## Design
+### Design
 
 I made use of the map that can be embedded in a Tableau worksheet in order to see how the top 10 states with the highest unemployment are spread geographically. 
 
@@ -86,29 +95,29 @@ In the last part of the Dashboard, I am giving mainly some arithmetic data along
 Finally, I chose the combination of blue & orange for the visualizations as it is the suggested combination for people with color blindness issues.
 
 
-## Resources
+### Resources
 
 * [How to Create a Population Pyramid Chart in Tableau](https://www.doingdata.org/blog/how-to-create-a-population-pyramid-chart-in-tableau)
 * [5 tips on designing colorblind-friendly visualizations](https://www.tableau.com/about/blog/examining-data-viz-rules-dont-use-red-green-together)
 
 ___________________
 
-# [Visualization #3]()
+## [Visualization #3]()
 
-## Link
+### Link
 
-## Summary
+### Summary
 
 A brief description of the visualization and the main story or findings conveyed
 
 
-## Design
+### Design
 
 Explain any design choices you made including changes to the visualization after collecting feedback
 
 As bar charts are great to visually compare differences, I am using 
 
 
-## Resources
+### Resources
 
 List of Web sites, books, forums, blog posts, GitHub repositories, etc that you referred to or used in this submission (Add N/A if you did not use such resources).
