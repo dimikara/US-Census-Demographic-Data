@@ -4,7 +4,7 @@
 
 * [Introduction](#introduction)
 * [About the Data Set](#about-the-data-set)
-* [1. Distribution of Ethinicities in All US States](#1-distribution-of-ethinicities-in-all-us-states)
+* [1. Diffusion of Ethinicities in the US](#1-diffusion-of-ethinicities-in-the-us)
 * [2. Unemployment Insights for the US](#2-unemployment-insights-for-the-US)
 * [3. ](#3-)
 
@@ -23,37 +23,47 @@ For the full data sets and more information, please refer to the [United States 
 
 ___________________
 
-## [1. Distribution of Ethinicities in All US States](https://public.tableau.com/app/profile/dimitra.karamperi/viz/DistributionofEthinicitiesinAllUSStates/Sheet1)
+## [1. Diffusion of Ethinicities in the US](https://public.tableau.com/app/profile/dimitra.karamperi/viz/DiffusionofEthnicitiesintheUS/Sheet1)
+
+![Diffusion of Ethinicities in the US](https://github.com/dimikara/US-Census-Demographic-Data/blob/main/img/Diffusion%20of%20Ethinicities%20in%20the%20US.png)
+
 
 ### Link
 
-https://public.tableau.com/app/profile/dimitra.karamperi/viz/DistributionofEthinicitiesinAllUSStates/Sheet1
-
-![Distribution of Ethinicities in All US States](https://github.com/dimikara/US-Census-Demographic-Data/blob/main/img/Distribution%20of%20Ethinicities%20in%20the%20US.png)
+You may find the Worksheet [here](https://public.tableau.com/app/profile/dimitra.karamperi/viz/DiffusionofEthnicitiesintheUS/Sheet1)
 
 
 ### Summary
 
-In this visualization, we can see all the ethnicities for which there is data for in the provided data set, i.e. **Asian**, **Black**, **Hispanic**, **Native**, and **White**, in alphabetical order.
+In this visualization, we can see all the ethnicities for which there is data for in the provided data set:
 
-We can see is that the more evenly distributed ethnicities are the White & Asian populations. To further explain, by even distribution, I mean that these two ethinicities appear in many states 
+- **Asian**
+- **Black**
+- **Hispanic**
+- **Native**
+- **White**
+
+appearing in alphabetical order.
+
+We can see is that the more evenly distributed ethnicities are the White & Asian populations. To further explain, by even distribution, I mean that these two ethinicities seem to appear more evenly in most states. In contrast, the black community for example seems to exist mostly in 9 states (9 peaks), while the Latino community seems to be living in mostly 2 states, Puerto Rico & Texas, which correspond to the two prominent peaks. Lastly, the Native community is somewhere in the middle, showing 6-7 peaks, but with the lowest population numbers.
 
 
 ### Design
 
-I chose this bar chart as the most appropriate, in my opinion, for illustrating the above finding. It is a simple but effective choice that reveals something that may not be so intuitive to understand otherwise.
+I chose the area chart as it is visually the most appropriate to illustrate the above finding. It is a simple but effective choice that reveals something that might not be so intuitive to understand otherwise.
 
-I added two filters, to facilitate the filtering based on state & county, if the reader wants to get the appropriate info in a more in depth level. I have also added data labels following the Min/Max option, so that it is easy to see the highest and lowest value for each ethinicity.
+I added two filters, to facilitate the filtering based on state & county, in case the reader wants to get the appropriate info in a more in depth level. Upon selecting a state, we can also see the actual data for all ethinicities for the given state.
 
 
 
 ### Resources
 
-* [How to Visualize Likert Scale Data in Tableau](https://www.rigordatasolutions.com/post/how-to-visualize-likert-scale-data-in-tableau)
+N/A
 
 ___________________
 
 ## [2. Unemployment Insights for the US](https://public.tableau.com/app/profile/dimitra.karamperi/viz/UnemploymentInsightsfortheUS/UnemploymentInsights)
+
 ![Unemployment Insights for the US](https://github.com/dimikara/US-Census-Demographic-Data/blob/main/img/Unemployment%20Insights%20for%20the%20US.png)
 
 ### Link
