@@ -6,7 +6,7 @@
 * [About the Data Set](#about-the-data-set)
 * [1. Diffusion of Ethinicities in the US](#1-diffusion-of-ethinicities-in-the-us)
 * [2. Unemployment Insights for the US](#2-unemployment-insights-for-the-US)
-* [3. ](#3-)
+* [3. How is Unemployment Distributed across the counties of the Top 3 States with the Highest Unemployment Rates?](#3-how-is-unemployment-distributed-across-the-counties-of-the-top-3-states-with-the-highest-unemployment-rates)
 
 
 ## <b>Introduction</b><br>
