@@ -4,8 +4,8 @@
 
 * [Introduction](#introduction)
 * [About the Data Set](#about-the-data-set)
-* [Distribution of Ethinicities in All US States](#distribution-of-ethinicities-in-all-us-states)
-* [Unemployment Insights for the US](#unemployment-insights-for-the-US)
+* [Distribution of Ethinicities in All US States](#1-distribution-of-ethinicities-in-all-us-states)
+* [Unemployment Insights for the US](#2-unemployment-insights-for-the-US)
 
 
 ## <b>Introduction</b><br>
@@ -22,7 +22,7 @@ For the full data sets and more information, please refer to the [United States 
 
 ___________________
 
-## [Distribution of Ethinicities in All US States](https://public.tableau.com/app/profile/dimitra.karamperi/viz/DistributionofEthinicitiesinAllUSStates/Sheet1)
+## [1. Distribution of Ethinicities in All US States](https://public.tableau.com/app/profile/dimitra.karamperi/viz/DistributionofEthinicitiesinAllUSStates/Sheet1)
 
 ### Link
 
@@ -52,7 +52,7 @@ I added two filters, to facilitate the filtering based on state & county, if the
 
 ___________________
 
-## [Unemployment Insights for the US](https://public.tableau.com/app/profile/dimitra.karamperi/viz/UnemploymentInsightsfortheUS/UnemploymentInsights)
+## [2. Unemployment Insights for the US](https://public.tableau.com/app/profile/dimitra.karamperi/viz/UnemploymentInsightsfortheUS/UnemploymentInsights)
 ![Unemployment Insights for the US](https://github.com/dimikara/US-Census-Demographic-Data/blob/main/img/Unemployment%20Insights%20for%20the%20US.png)
 
 ### Link
