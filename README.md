@@ -75,9 +75,7 @@ In this visualization, we can see some insights about the unemployment in the US
 
 The first obvious finding is that all these 10 states are in the eastern part of the US, with most of them being in the south as only Michigan lies on the north.
 
-In the map, the Highlight State bar is used for an easy navigation: upon choosing a state out of the 10 that are available, the data is automatically highlighted in the visualization parts on the right.
-
-Not so surprisingly, we can also see that Unemployment and Poverty usually go hand by hand. This is represented by the visualization on the top right. In the tooltip, I chose to also include the data for Child Poverty as an extra interesting piece of information. As we can see by the blue color differences, Child Poverty follows more or less the same pattern with Poverty, with the exception of Missouri that has higher than expected values for both Poverty and Child Poverty.
+Not so surprisingly, we can see that Unemployment and Poverty usually go hand by hand. This is represented by the visualization on the top right. In the tooltip, I chose to also include the data for Child Poverty as an extra interesting piece of information. As we can see by the blue color differences, Child Poverty follows more or less the same pattern with Poverty, with the exception of Missouri that has higher than expected values for both Poverty and Child Poverty.
 
 The last part of the Dashboard, on the bottom right, has a two-fold role: the first one is to give us some more extra arithmetic data about the 10 countries that we examine, as an attempt to expand our understanding of the relationship between Unemployment, Income per Capita, and Population. At the same time, the visualization gives a quick sense of the size of Poverty as the bar appears as thick or thin.
 
@@ -85,6 +83,8 @@ The last part of the Dashboard, on the bottom right, has a two-fold role: the fi
 ### Design
 
 I made use of the map that can be embedded in a Tableau worksheet in order to see how the top 10 states with the highest unemployment are spread geographically. 
+
+In the map, the Highlight State bar is used for an easy navigation: upon choosing a state out of the 10 that are available, the data is automatically highlighted in the visualization parts on the right. We may also click on a state in a table on the right, and get directly the data on the map and on the other table/graph, as both tables act as a filter. 
 
 For comparing Unemployment and Poverty, I actually took my inspiration from the popular population pyramid charts. I have also added the data for Child Poverty, using hues of blue as a differentiator in order to give a prompt sense of the metric: the darkest the blue color is, the highest the Child Poverty is.
 
