@@ -132,7 +132,7 @@ The charts revealed that unemployment is spread in the counties of Texas & Georg
 
 Please note that I chose on purpose to keep all the counties in the bubble charts as I want to illustrate that in Texas and Georgia there are many bubbles of a smaller size and only a few bigger ones, while in Puerto Rico there are many bubbles of larger size. If I was to limit the bubbles to 10 or 20, this finding would no longer be obvious.
 
-However, in order to facilitate the reader in further exploring the data on the bubble charts for the three states, I added a highlighter in all three of them. This way, it is possible to select a county and promptly get the available data for it.
+However, in order to facilitate the reader in further exploring the data on the bubble charts for the three states, I added a highlighter in all three of them. This way, it is possible to select any county and promptly get the available data for it.
 
 
 ### Design
@@ -140,7 +140,7 @@ However, in order to facilitate the reader in further exploring the data on the 
 All visualizations were created as bubble charts in order to facilitate the visual comparison.<br>
 The size of the bubble is directly related to the unemployment rate, where largest size represents higher unemployment.<br>
 
-As in the previous visualizations, I chose the colorblind-friendly palette that is available in Tableau.
+As I did in the previous visualizations, here too I chose the colorblind-friendly palette that is available in Tableau.
 
 
 ### Resources
