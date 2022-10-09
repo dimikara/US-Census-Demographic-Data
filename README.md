@@ -88,7 +88,7 @@ The first obvious finding is that all these 10 states are in the eastern part of
 
 Not so surprisingly, we can see that Unemployment and Poverty usually go hand by hand. This is represented by the visualization on the top right. In the tooltip, I chose to also include the data for Child Poverty as an extra interesting piece of information. As we can see by the blue color differences, Child Poverty follows more or less the same pattern with Poverty, with the exception of Missouri that has higher than expected values for both Poverty and Child Poverty.
 
-The last part of the Dashboard, on the bottom right, has a two-fold role: the first one is to give us some more extra arithmetic data about the 10 countries that we examine, as an attempt to expand our understanding of the relationship between Unemployment, Income per Capita, and Population. At the same time, the visualization gives a quick sense of the size of Poverty as the bar appears as thick or thin.
+The last part of the Dashboard, on the bottom right, has a two-fold role: the first one is to give us some more extra arithmetic data about the 10 states that we examine, as an attempt to expand our understanding of the relationship between Unemployment, Income per Capita, and Population. At the same time, the visualization gives a quick sense of the size of Poverty as the bar appears as thick or thin.
 
 
 ### Design
