@@ -16,7 +16,7 @@ In this project I am exploring a US Census Demographic data set, and visualizing
 
 ## <b>About the Data Set</b>
 
-The data comes from [Kaggle](https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data), and it includes the census data for all US counties in 2015. The data originates from the DP03 and DP05 tables of the 2015 American Community Survey 5-year estimates, while the Census Bureau updates the estimates approximately every year. 
+The data set comes from [Kaggle](https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data), and includes the census data for all US counties in 2015. The data originates from the DP03 and DP05 tables of the 2015 American Community Survey 5-year estimates, while the Census Bureau updates the estimates approximately every year. 
 
 For this project, I am using the data file _acs2015countydata.csv_, which provides data for each US county, including DC and Puerto Rico.
 For the full data sets and more information, please refer to the [United States Cencus Bureau website](https://data.census.gov/cedsci/).
@@ -45,7 +45,7 @@ In this visualization, we can see all the ethnicities for which there is data fo
 
 appearing in alphabetical order.
 
-We can see is that the more evenly distributed ethnicities are the White & Asian populations. To further explain, by even distribution, I mean that these two ethinicities seem to have less peaks and appear more evenly in most states. In contrast, the black community for example seems to exist mostly in 9 states (9 peaks), while the Latino community seems to be living in mostly 2 states, Puerto Rico & Texas, which correspond to the two prominent peaks. Lastly, the Native community is somewhere in the middle, showing 6-7 peaks, but with the lowest population numbers.
+We can see is that the more evenly distributed ethnicities are the White & Asian populations. To further explain, by even distribution, I mean that these two ethinicities seem to have less peaks and appear more evenly in most states. In contrast, the black community, for example, seems to exist mostly in 9 states (9 peaks), while the Latino community seems to be living in mostly 2 states, Puerto Rico & Texas, which correspond to the two prominent peaks. Lastly, the Native community is somewhere in the middle, showing 6-7 peaks, but with the lowest population numbers.
 
 
 ### Design
